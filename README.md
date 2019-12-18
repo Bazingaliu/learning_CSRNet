@@ -1,6 +1,6 @@
 
 
-# chapter5-learning_CSRNet
+# learning_CSRNet
 
 What **CSRNet** is doing: counting the number of people in the picture
 
